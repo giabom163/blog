@@ -1,0 +1,44 @@
+backend:
+  name: github
+  repo: giabom163/blog
+  branch: main
+  # 用 GitHub OAuth，无需自己服务器。login: true 会跳转到 GitHub 授权页
+  login: true
+
+# 只有你的 GitHub 账号能登录后台，别人打开 /admin 会被拒
+media_folder: "public/uploads"
+public_folder: "/uploads"
+
+site_url: https://giabom.online
+display_url: https://giabom.online
+logo_url: /favicon/favicon-light-128.png
+
+collections:
+  # 博客文章：对应 src/content/posts/*.md
+  - name: "posts"
+    label: "文章"
+    folder: "src/content/posts"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "标题", name: "title", widget: "string" }
+      - { label: "发布日期", name: "published", widget: "datetime" }
+      - { label: "摘要", name: "description", widget: "text" }
+      - { label: "标签", name: "tags", widget: "list", required: false }
+      - { label: "分类", name: "category", widget: "string", required: false }
+      - { label: "草稿", name: "draft", widget: "boolean", default: false }
+      - { label: "正文", name: "body", widget: "markdown" }
+
+  # 关于页：对应 src/content/spec/about.md
+  - name: "about"
+    label: "关于页"
+    files:
+      - name: "about"
+        label: "关于我"
+        file: "src/content/spec/about.md"
+    editor:
+      preview: false
+    fields:
+      - { label: "正文", name: "body", widget: "markdown" }

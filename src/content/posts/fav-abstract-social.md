@@ -1,9 +1,13 @@
 ---
-title: "抽象与时事"
-description: "波士顿圆脸讲国际新闻，丁真被做成歌——收藏夹里最没营养也停不下来的那些。"
+title: 抽象与时事
+slug: ''
+description: 波士顿圆脸讲国际新闻，丁真被做成歌——收藏夹里最没营养也停不下来的那些。
 published: 2026-10-02
-tags: ["国际时事", "meme", "收藏夹"]
-category: "收藏夹"
+category: 收藏夹
+tags:
+  - 国际时事
+  - meme
+  - 收藏夹
 draft: false
 ---
 
@@ -15,10 +19,10 @@ draft: false
 
 存得非常多，风格极其鲜明——**用讲段子的方式讲国际新闻**。
 
-- **[大英花了十年脱欧，现在准备加回去](https://www.bilibili.com/video/BV1aa4y1D7bH)**
-- **[我是来打篮球的，怎么打成抗日英雄了？！](https://www.bilibili.com/video/BV1XDa26iE5K)**
-- **[高市早苗联合国首秀：硬生生给我看笑了](https://www.bilibili.com/video/BV1am4y1H7TQ)**
-- **[懂王特批揭秘：润人的好日子还在后头！](https://www.bilibili.com/video/BV1b94y1c7jG)**
+- [**大英花了十年脱欧，现在准备加回去**](https://www.bilibili.com/video/BV1aa4y1D7bH)
+- [**我是来打篮球的，怎么打成抗日英雄了？！**](https://www.bilibili.com/video/BV1XDa26iE5K)
+- [**高市早苗联合国首秀：硬生生给我看笑了**](https://www.bilibili.com/video/BV1am4y1H7TQ)
+- [**懂王特批揭秘：润人的好日子还在后头！**](https://www.bilibili.com/video/BV1b94y1c7jG)
 
 > 「我是来打篮球的，怎么打成抗日英雄了」——这句信息量其实很大。它把一个体育事件和历史记忆直接缝在一起，荒诞感来自**语境的错位**。
 
@@ -26,9 +30,9 @@ draft: false
 
 ## 瓜熟迪落拉：美东速报
 
-- **[详解娜塔莉·哈普事件，特朗普的莱温斯基水灵灵登场](https://www.bilibili.com/video/BV1cRHL6MEYW)**
-- **[林赛·格雷厄姆暴毙全解析](https://www.bilibili.com/video/BV1hfa4y1H7Yd)**
-- **[川普访华，美方随行新政客点将登场](https://www.bilibili.com/video/BV1wCa4y1H7js)**
+- [**详解娜塔莉·哈普事件，特朗普的莱温斯基水灵灵登场**](https://www.bilibili.com/video/BV1cRHL6MEYW)
+- [**林赛·格雷厄姆暴毙全解析**](https://www.bilibili.com/video/BV1hfa4y1H7Yd)
+- [**川普访华，美方随行新政客点将登场**](https://www.bilibili.com/video/BV1wCa4y1H7js)
 
 他是**信息密度型**——每期把一个事件的来龙去脉打包，标题直接写「全解析」。适合想一次性补齐某个话题。
 
@@ -46,9 +50,9 @@ draft: false
 
 **丁真二创（清风最梦）**：
 
-- **[丁真友情出演《尼古丁丁》主题曲](https://www.bilibili.com/video/BV1XDa26iE5K)**
-- **[躲在超市后门吸烟的二人《Night Smoker》](https://www.bilibili.com/video/BV13N7Hz3EeS)**
-- **[【补档】丁真：张雪豹老师，我还记得你《烟张师》](https://www.bilibili.com/video/BV1Dkr4y1t7Pq)**
+- [**丁真友情出演《尼古丁丁》主题曲**](https://www.bilibili.com/video/BV1XDa26iE5K)
+- [**躲在超市后门吸烟的二人《Night Smoker》**](https://www.bilibili.com/video/BV13N7Hz3EeS)
+- [**【补档】丁真：张雪豹老师，我还记得你《烟张师》**](https://www.bilibili.com/video/BV1Dkr4y1t7Pq)
 - 秦始皇：你说徭役徭是吧？
 
 **《尼古丁丁》《烟张师》的质量已经超过原素材了。**
@@ -60,15 +64,15 @@ draft: false
 - 燕三嘤嘤嘤：日本印度表面兄妹 / 德国的耻辱 / 高市早苗的魅力外交
 - Speed-777：看外国人反应的系列。那条**美团无人机外卖**能存下来，说明"技术奇观对外展示"这个角度很吸引人
 - 鸡鸡·夫斯基：琵琶曲｜杰哥 VS 阿伟 / 雨爱（司凤版）
-- 京西动画：败者为皇 / 羊珠 / 胡人岁月
+- 京西动画：败者为皇 / 羊珠 / 胡人岁月（goat这一块）
 
 ## 老王聊天
 
 和波士顿圆脸不一样，他做的是**正经的社会问题分析**：
 
-- **[打拳运动为何向中高层传染？](https://www.bilibili.com/video/BV1XDa26iE5K)**
-- **[从波士顿圆脸被下架视频说起，有些事更重要](https://www.bilibili.com/video/BV1ay4y1H7Zt)**
-- **[十六岁女孩仅靠口供，诬告父亲性侵案的背后](https://www.bilibili.com/video/BV1QRUcB5EP1)**
+- [**打拳运动为何向中高层传染？**](https://www.bilibili.com/video/BV1XDa26iE5K)
+- [**从波士顿圆脸被下架视频说起，有些事更重要**](https://www.bilibili.com/video/BV1ay4y1H7Zt)
+- [**十六岁女孩仅靠口供，诬告父亲性侵案的背后**](https://www.bilibili.com/video/BV1QRUcB5EP1)
 
 > 「打拳运动为何向中高层传染」——这问题本身就很有意思。
 >
@@ -76,7 +80,7 @@ draft: false
 
 ## 一点总结
 
-这一整类收藏的共同点是：**都不是知识，是"看世界的角度"**。
+这一整类收藏的共同点是：\*\*都不是知识，是"看世界的角度"\*\*。
 
 - 波士顿圆脸教我怎么用段子看新闻
 - 瓜熟迪落拉教我怎么一次性搞懂一件事
@@ -85,6 +89,6 @@ draft: false
 
 这些 UP 主教我的东西，比内容本身更有意思。
 
----
+***
 
-*陆续更新。*
+_陆续更新。_
